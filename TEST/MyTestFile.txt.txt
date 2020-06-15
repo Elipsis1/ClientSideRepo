@@ -1,1 +1,1 @@
-This is a changed text file
+File number 2. Another text file
